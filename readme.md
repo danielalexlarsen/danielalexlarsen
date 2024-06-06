@@ -4,7 +4,7 @@ Currently teaching **cybersecurity** as a student ambassador @ Aalborg Universit
 
 Implementing and maintaining IT operational modules @ national construction company. 
 
-I'll update my [PERSONAL WEBSITE](danielalexlarsen.github.io) whenever I feel motivated.
+I'll update my [PERSONAL WEBSITE](https://danielalexlarsen.github.io) whenever I feel motivated.
 
 Find me on LinkedIn if necessary.
 
